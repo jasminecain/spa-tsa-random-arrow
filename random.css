@@ -1,0 +1,26 @@
+body {
+  display: block;
+  height: 100%;
+}
+
+h1 {
+  color: #039BE5;
+}
+
+.arrow {
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+.arrow.left {
+  background-image: url(../images/bluearrow.png);
+  height: 158px;
+  width: 608px;
+}
+
+
+.arrow.right {
+  background-image: url(../images/blue-right.png);
+  height: 138px;
+  width: 618px;
+}
